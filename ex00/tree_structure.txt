@@ -1,0 +1,47 @@
+.:
+total 4
+drwxr-xr-x  6 ozayed _amman   98 Sep 30 15:08 .
+drwx------ 18 ozayed _amman 4096 Sep 30 15:06 ..
+drwxr-xr-x  2 ozayed _amman    6 Sep 30 15:06 archives
+drwxr-xr-x  2 ozayed _amman    6 Sep 30 15:05 dev_workspace
+drwxr-xr-x  3 ozayed _amman   17 Sep 30 15:09 projects
+drwxr-xr-x  2 ozayed _amman    6 Sep 30 15:06 tools
+-rw-r--r--  1 ozayed _amman    0 Sep 30 15:13 tree_structure.txt
+
+./archives:
+total 0
+drwxr-xr-x 2 ozayed _amman  6 Sep 30 15:06 .
+drwxr-xr-x 6 ozayed _amman 98 Sep 30 15:08 ..
+
+./dev_workspace:
+total 0
+drwxr-xr-x 2 ozayed _amman  6 Sep 30 15:05 .
+drwxr-xr-x 6 ozayed _amman 98 Sep 30 15:08 ..
+
+./projects:
+total 0
+drwxr-xr-x 3 ozayed _amman 17 Sep 30 15:09 .
+drwxr-xr-x 6 ozayed _amman 98 Sep 30 15:08 ..
+drwxr-xr-x 4 ozayed _amman 36 Sep 30 15:09 web
+
+./projects/web:
+total 0
+drwxr-xr-x 4 ozayed _amman 36 Sep 30 15:09 .
+drwxr-xr-x 3 ozayed _amman 17 Sep 30 15:09 ..
+drwxr-xr-x 2 ozayed _amman  6 Sep 30 15:09 backend
+drwxr-xr-x 2 ozayed _amman  6 Sep 30 15:09 fronted
+
+./projects/web/backend:
+total 0
+drwxr-xr-x 2 ozayed _amman  6 Sep 30 15:09 .
+drwxr-xr-x 4 ozayed _amman 36 Sep 30 15:09 ..
+
+./projects/web/fronted:
+total 0
+drwxr-xr-x 2 ozayed _amman  6 Sep 30 15:09 .
+drwxr-xr-x 4 ozayed _amman 36 Sep 30 15:09 ..
+
+./tools:
+total 0
+drwxr-xr-x 2 ozayed _amman  6 Sep 30 15:06 .
+drwxr-xr-x 6 ozayed _amman 98 Sep 30 15:08 ..
